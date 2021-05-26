@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Extreme Tux Racer
+Exec=etr.sh
+Type=Application
+Categories=Game;
+Icon=etr
